@@ -1,0 +1,15 @@
+#container {
+	list-style-type: none;
+	background-color: grey;
+	width: 20%;
+	height: 2em;
+	line-height: 2em;
+}
+#mass {
+	width: 10em;
+	margin-left: -1.5em;
+}
+#hidden-container {
+	margin-left: -1em;
+	display: none;
+}
